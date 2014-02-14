@@ -7,3 +7,7 @@ one:
 two:
   context: MyText
   user: crystal
+
+three:
+  context: "I am a cat"
+  user: loki

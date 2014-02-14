@@ -3,3 +3,9 @@ crystal:
  last_name: "Meneses"
  email: "crystalm927@gmail.com"
  profile_name: "crystalmeneses"
+
+loki:
+ first_name: "Loki"
+ last_name: "Meneses"
+ email: "loki@gmail.com"
+ profile_name: "lokimeneses"
